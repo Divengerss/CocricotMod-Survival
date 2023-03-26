@@ -1120,3 +1120,1672 @@ recipes.addShapedMirrored("Small Grid Tile Stairs",<cocricotmod:tile_grid_small_
     [<cocricotmod:tile_grid_small_blackwhite>,<cocricotmod:tile_grid_small_blackwhite>,null],
     [<cocricotmod:tile_grid_small_blackwhite>,<cocricotmod:tile_grid_small_blackwhite>,<cocricotmod:tile_grid_small_blackwhite>]
 ]);
+
+recipes.addShaped("Concrete Exposed",<cocricotmod:concrete_exposed> * 9,[
+    [silver_concrete,silver_concrete,silver_concrete],
+    [silver_concrete,silver_concrete,silver_concrete],
+    [silver_concrete,silver_concrete,silver_concrete]
+]);
+
+recipes.addShaped("Stucco White",<cocricotmod:stucco_white> * 9,[
+    [white_concrete,white_concrete,white_concrete],
+    [white_concrete,white_concrete,white_concrete],
+    [white_concrete,white_concrete,white_concrete]
+]);
+
+recipes.addShaped("Stucco Pink",<cocricotmod:stucco_pink> * 9,[
+    [pink_concrete,pink_concrete,pink_concrete],
+    [pink_concrete,pink_concrete,pink_concrete],
+    [pink_concrete,pink_concrete,pink_concrete]
+]);
+
+recipes.addShaped("Stucco red",<cocricotmod:stucco_red> * 9,[
+    [red_concrete,red_concrete,red_concrete],
+    [red_concrete,red_concrete,red_concrete],
+    [red_concrete,red_concrete,red_concrete]
+]);
+
+recipes.addShaped("Stucco orange",<cocricotmod:stucco_orange> * 9,[
+    [orange_concrete,orange_concrete,orange_concrete],
+    [orange_concrete,orange_concrete,orange_concrete],
+    [orange_concrete,orange_concrete,orange_concrete]
+]);
+
+recipes.addShaped("Stucco yellow",<cocricotmod:stucco_yellow> * 9,[
+    [yellow_concrete,yellow_concrete,yellow_concrete],
+    [yellow_concrete,yellow_concrete,yellow_concrete],
+    [yellow_concrete,yellow_concrete,yellow_concrete]
+]);
+
+recipes.addShaped("Stucco lightblue",<cocricotmod:stucco_lightblue> * 9,[
+    [light_blue_concrete,light_blue_concrete,light_blue_concrete],
+    [light_blue_concrete,light_blue_concrete,light_blue_concrete],
+    [light_blue_concrete,light_blue_concrete,light_blue_concrete]
+]);
+
+recipes.addShaped("Stucco blue",<cocricotmod:stucco_blue> * 9,[
+    [cyan_concrete,cyan_concrete,cyan_concrete],
+    [cyan_concrete,cyan_concrete,cyan_concrete],
+    [cyan_concrete,cyan_concrete,cyan_concrete]
+]);
+
+recipes.addShaped("Stucco marineblue",<cocricotmod:stucco_marineblue> * 9,[
+    [blue_concrete,blue_concrete,blue_concrete],
+    [blue_concrete,blue_concrete,blue_concrete],
+    [blue_concrete,blue_concrete,blue_concrete]
+]);
+
+recipes.addShapedMirrored("Mortar Vslab",<cocricotmod:mortar_vslab> * 2,[
+    [<cocricotmod:mortar>,null,null],
+    [<cocricotmod:mortar>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Mortar Slab",<cocricotmod:mortar_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:mortar>,<cocricotmod:mortar>,<cocricotmod:mortar>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Mortar Plate",<cocricotmod:mortar_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:mortar_slab>,<cocricotmod:mortar_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Mortar Stairs",<cocricotmod:mortar_stairs> * 4,[
+    [<cocricotmod:mortar>,null,null],
+    [<cocricotmod:mortar>,<cocricotmod:mortar>,null],
+    [<cocricotmod:mortar>,<cocricotmod:mortar>,<cocricotmod:mortar>]
+]);
+
+recipes.addShapedMirrored("Mortar Arch",<cocricotmod:mortar_arch>,[
+    [<cocricotmod:mortar>,<cocricotmod:mortar_slab>,null],
+    [<cocricotmod:mortar_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Mortar Arch Single",<cocricotmod:mortar_arch_single>,[
+    [<cocricotmod:mortar_arch>,<cocricotmod:mortar_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Mortar Arch Rod",<cocricotmod:mortar_rod> * 8,[
+    [<cocricotmod:mortar>,null,null],
+    [<cocricotmod:mortar>,null,null],
+    [<cocricotmod:mortar>,null,null]
+]);
+
+recipes.addShapedMirrored("Mortar Arch Stick",<cocricotmod:mortar_stick> * 8,[
+    [<cocricotmod:mortar_rod>,null,null],
+    [<cocricotmod:mortar_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Stucco Vslab",<cocricotmod:stucco_white_vslab> * 2,[
+    [<cocricotmod:stucco_white>,null,null],
+    [<cocricotmod:stucco_white>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Stucco Slab",<cocricotmod:stucco_white_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stucco_white>,<cocricotmod:stucco_white>,<cocricotmod:stucco_white>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Stucco Plate",<cocricotmod:stucco_white_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stucco_white_slab>,<cocricotmod:stucco_white_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Stucco Stairs",<cocricotmod:stucco_white_stairs> * 4,[
+    [<cocricotmod:stucco_white>,null,null],
+    [<cocricotmod:stucco_white>,<cocricotmod:stucco_white>,null],
+    [<cocricotmod:stucco_white>,<cocricotmod:stucco_white>,<cocricotmod:stucco_white>]
+]);
+
+recipes.addShapedMirrored("White Stucco Arch",<cocricotmod:stucco_white_arch>,[
+    [<cocricotmod:stucco_white>,<cocricotmod:stucco_white_slab>,null],
+    [<cocricotmod:stucco_white_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Stucco Arch Single",<cocricotmod:stucco_white_arch_single>,[
+    [<cocricotmod:stucco_white_arch>,<cocricotmod:stucco_white_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Stucco Arch Rod",<cocricotmod:stucco_white_rod> * 8,[
+    [<cocricotmod:stucco_white>,null,null],
+    [<cocricotmod:stucco_white>,null,null],
+    [<cocricotmod:stucco_white>,null,null]
+]);
+
+recipes.addShapedMirrored("White Stucco Arch Stick",<cocricotmod:stucco_white_stick> * 8,[
+    [<cocricotmod:stucco_white_rod>,null,null],
+    [<cocricotmod:stucco_white_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Pink Stucco Vslab",<cocricotmod:stucco_pink_vslab> * 2,[
+    [<cocricotmod:stucco_pink>,null,null],
+    [<cocricotmod:stucco_pink>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Pink Stucco Slab",<cocricotmod:stucco_pink_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stucco_pink>,<cocricotmod:stucco_pink>,<cocricotmod:stucco_pink>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Pink Stucco Plate",<cocricotmod:stucco_pink_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stucco_pink_slab>,<cocricotmod:stucco_pink_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Pink Stucco Stairs",<cocricotmod:stucco_pink_stairs> * 4,[
+    [<cocricotmod:stucco_pink>,null,null],
+    [<cocricotmod:stucco_pink>,<cocricotmod:stucco_pink>,null],
+    [<cocricotmod:stucco_pink>,<cocricotmod:stucco_pink>,<cocricotmod:stucco_pink>]
+]);
+
+recipes.addShapedMirrored("Pink Stucco Arch",<cocricotmod:stucco_pink_arch>,[
+    [<cocricotmod:stucco_pink>,<cocricotmod:stucco_pink_slab>,null],
+    [<cocricotmod:stucco_pink_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Pink Stucco Arch Single",<cocricotmod:stucco_pink_arch_single>,[
+    [<cocricotmod:stucco_pink_arch>,<cocricotmod:stucco_pink_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Pink Stucco Arch Rod",<cocricotmod:stucco_pink_rod> * 8,[
+    [<cocricotmod:stucco_pink>,null,null],
+    [<cocricotmod:stucco_pink>,null,null],
+    [<cocricotmod:stucco_pink>,null,null]
+]);
+
+recipes.addShapedMirrored("Pink Stucco Arch Stick",<cocricotmod:stucco_pink_stick> * 8,[
+    [<cocricotmod:stucco_pink_rod>,null,null],
+    [<cocricotmod:stucco_pink_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Red Stucco Vslab",<cocricotmod:stucco_red_vslab> * 2,[
+    [<cocricotmod:stucco_red>,null,null],
+    [<cocricotmod:stucco_red>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Red Stucco Slab",<cocricotmod:stucco_red_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stucco_red>,<cocricotmod:stucco_red>,<cocricotmod:stucco_red>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Red Stucco Plate",<cocricotmod:stucco_red_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stucco_red_slab>,<cocricotmod:stucco_red_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Red Stucco Stairs",<cocricotmod:stucco_red_stairs> * 4,[
+    [<cocricotmod:stucco_red>,null,null],
+    [<cocricotmod:stucco_red>,<cocricotmod:stucco_red>,null],
+    [<cocricotmod:stucco_red>,<cocricotmod:stucco_red>,<cocricotmod:stucco_red>]
+]);
+
+recipes.addShapedMirrored("Red Stucco Arch",<cocricotmod:stucco_red_arch>,[
+    [<cocricotmod:stucco_red>,<cocricotmod:stucco_red_slab>,null],
+    [<cocricotmod:stucco_red_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Red Stucco Arch Single",<cocricotmod:stucco_red_arch_single>,[
+    [<cocricotmod:stucco_red_arch>,<cocricotmod:stucco_red_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Red Stucco Arch Rod",<cocricotmod:stucco_red_rod> * 8,[
+    [<cocricotmod:stucco_red>,null,null],
+    [<cocricotmod:stucco_red>,null,null],
+    [<cocricotmod:stucco_red>,null,null]
+]);
+
+recipes.addShapedMirrored("Red Stucco Arch Stick",<cocricotmod:stucco_red_stick> * 8,[
+    [<cocricotmod:stucco_red_rod>,null,null],
+    [<cocricotmod:stucco_red_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Orange Stucco Vslab",<cocricotmod:stucco_orange_vslab> * 2,[
+    [<cocricotmod:stucco_orange>,null,null],
+    [<cocricotmod:stucco_orange>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Orange Stucco Slab",<cocricotmod:stucco_orange_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stucco_orange>,<cocricotmod:stucco_orange>,<cocricotmod:stucco_orange>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Orange Stucco Plate",<cocricotmod:stucco_orange_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stucco_orange_slab>,<cocricotmod:stucco_orange_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Orange Stucco Stairs",<cocricotmod:stucco_orange_stairs> * 4,[
+    [<cocricotmod:stucco_orange>,null,null],
+    [<cocricotmod:stucco_orange>,<cocricotmod:stucco_orange>,null],
+    [<cocricotmod:stucco_orange>,<cocricotmod:stucco_orange>,<cocricotmod:stucco_orange>]
+]);
+
+recipes.addShapedMirrored("Orange Stucco Arch",<cocricotmod:stucco_orange_arch>,[
+    [<cocricotmod:stucco_orange>,<cocricotmod:stucco_orange_slab>,null],
+    [<cocricotmod:stucco_orange_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Orange Stucco Arch Single",<cocricotmod:stucco_orange_arch_single>,[
+    [<cocricotmod:stucco_orange_arch>,<cocricotmod:stucco_orange_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Orange Stucco Arch Rod",<cocricotmod:stucco_orange_rod> * 8,[
+    [<cocricotmod:stucco_orange>,null,null],
+    [<cocricotmod:stucco_orange>,null,null],
+    [<cocricotmod:stucco_orange>,null,null]
+]);
+
+recipes.addShapedMirrored("Orange Stucco Arch Stick",<cocricotmod:stucco_orange_stick> * 8,[
+    [<cocricotmod:stucco_orange_rod>,null,null],
+    [<cocricotmod:stucco_orange_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Yellow Stucco Vslab",<cocricotmod:stucco_yellow_vslab> * 2,[
+    [<cocricotmod:stucco_yellow>,null,null],
+    [<cocricotmod:stucco_yellow>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Yellow Stucco Slab",<cocricotmod:stucco_yellow_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stucco_yellow>,<cocricotmod:stucco_yellow>,<cocricotmod:stucco_yellow>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Yellow Stucco Plate",<cocricotmod:stucco_yellow_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stucco_yellow_slab>,<cocricotmod:stucco_yellow_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Yellow Stucco Stairs",<cocricotmod:stucco_yellow_stairs> * 4,[
+    [<cocricotmod:stucco_yellow>,null,null],
+    [<cocricotmod:stucco_yellow>,<cocricotmod:stucco_yellow>,null],
+    [<cocricotmod:stucco_yellow>,<cocricotmod:stucco_yellow>,<cocricotmod:stucco_yellow>]
+]);
+
+recipes.addShapedMirrored("Yellow Stucco Arch",<cocricotmod:stucco_yellow_arch>,[
+    [<cocricotmod:stucco_yellow>,<cocricotmod:stucco_yellow_slab>,null],
+    [<cocricotmod:stucco_yellow_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Yellow Stucco Arch Single",<cocricotmod:stucco_yellow_arch_single>,[
+    [<cocricotmod:stucco_yellow_arch>,<cocricotmod:stucco_yellow_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Yellow Stucco Arch Rod",<cocricotmod:stucco_yellow_rod> * 8,[
+    [<cocricotmod:stucco_yellow>,null,null],
+    [<cocricotmod:stucco_yellow>,null,null],
+    [<cocricotmod:stucco_yellow>,null,null]
+]);
+
+recipes.addShapedMirrored("Yellow Stucco Arch Stick",<cocricotmod:stucco_yellow_stick> * 8,[
+    [<cocricotmod:stucco_yellow_rod>,null,null],
+    [<cocricotmod:stucco_yellow_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Lightblue Stucco Vslab",<cocricotmod:stucco_lightblue_vslab> * 2,[
+    [<cocricotmod:stucco_lightblue>,null,null],
+    [<cocricotmod:stucco_lightblue>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Lightblue Stucco Slab",<cocricotmod:stucco_lightblue_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stucco_lightblue>,<cocricotmod:stucco_lightblue>,<cocricotmod:stucco_lightblue>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Lightblue Stucco Plate",<cocricotmod:stucco_lightblue_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stucco_lightblue_slab>,<cocricotmod:stucco_lightblue_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Lightblue Stucco Stairs",<cocricotmod:stucco_lightblue_stairs> * 4,[
+    [<cocricotmod:stucco_lightblue>,null,null],
+    [<cocricotmod:stucco_lightblue>,<cocricotmod:stucco_lightblue>,null],
+    [<cocricotmod:stucco_lightblue>,<cocricotmod:stucco_lightblue>,<cocricotmod:stucco_lightblue>]
+]);
+
+recipes.addShapedMirrored("Lightblue Stucco Arch",<cocricotmod:stucco_lightblue_arch>,[
+    [<cocricotmod:stucco_lightblue>,<cocricotmod:stucco_lightblue_slab>,null],
+    [<cocricotmod:stucco_lightblue_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Lightblue Stucco Arch Single",<cocricotmod:stucco_lightblue_arch_single>,[
+    [<cocricotmod:stucco_lightblue_arch>,<cocricotmod:stucco_lightblue_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Lightblue Stucco Arch Rod",<cocricotmod:stucco_lightblue_rod> * 8,[
+    [<cocricotmod:stucco_lightblue>,null,null],
+    [<cocricotmod:stucco_lightblue>,null,null],
+    [<cocricotmod:stucco_lightblue>,null,null]
+]);
+
+recipes.addShapedMirrored("Lightblue Stucco Arch Stick",<cocricotmod:stucco_lightblue_stick> * 8,[
+    [<cocricotmod:stucco_lightblue_rod>,null,null],
+    [<cocricotmod:stucco_lightblue_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Blue Stucco Vslab",<cocricotmod:stucco_blue_vslab> * 2,[
+    [<cocricotmod:stucco_blue>,null,null],
+    [<cocricotmod:stucco_blue>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Blue Stucco Slab",<cocricotmod:stucco_blue_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stucco_blue>,<cocricotmod:stucco_blue>,<cocricotmod:stucco_blue>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Blue Stucco Plate",<cocricotmod:stucco_blue_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stucco_blue_slab>,<cocricotmod:stucco_blue_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Blue Stucco Stairs",<cocricotmod:stucco_blue_stairs> * 4,[
+    [<cocricotmod:stucco_blue>,null,null],
+    [<cocricotmod:stucco_blue>,<cocricotmod:stucco_blue>,null],
+    [<cocricotmod:stucco_blue>,<cocricotmod:stucco_blue>,<cocricotmod:stucco_blue>]
+]);
+
+recipes.addShapedMirrored("Blue Stucco Arch",<cocricotmod:stucco_blue_arch>,[
+    [<cocricotmod:stucco_blue>,<cocricotmod:stucco_blue_slab>,null],
+    [<cocricotmod:stucco_blue_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Blue Stucco Arch Single",<cocricotmod:stucco_blue_arch_single>,[
+    [<cocricotmod:stucco_blue_arch>,<cocricotmod:stucco_blue_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Blue Stucco Arch Rod",<cocricotmod:stucco_blue_rod> * 8,[
+    [<cocricotmod:stucco_blue>,null,null],
+    [<cocricotmod:stucco_blue>,null,null],
+    [<cocricotmod:stucco_blue>,null,null]
+]);
+
+recipes.addShapedMirrored("Blue Stucco Arch Stick",<cocricotmod:stucco_blue_stick> * 8,[
+    [<cocricotmod:stucco_blue_rod>,null,null],
+    [<cocricotmod:stucco_blue_rod>,null,null],
+    [null,null,null]
+]);
+
+
+recipes.addShapedMirrored("Marineblue Stucco Vslab",<cocricotmod:stucco_marineblue_vslab> * 2,[
+    [<cocricotmod:stucco_marineblue>,null,null],
+    [<cocricotmod:stucco_marineblue>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Marineblue Stucco Slab",<cocricotmod:stucco_marineblue_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stucco_marineblue>,<cocricotmod:stucco_marineblue>,<cocricotmod:stucco_marineblue>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Marineblue Stucco Plate",<cocricotmod:stucco_marineblue_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stucco_marineblue_slab>,<cocricotmod:stucco_marineblue_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Marineblue Stucco Stairs",<cocricotmod:stucco_marineblue_stairs> * 4,[
+    [<cocricotmod:stucco_marineblue>,null,null],
+    [<cocricotmod:stucco_marineblue>,<cocricotmod:stucco_marineblue>,null],
+    [<cocricotmod:stucco_marineblue>,<cocricotmod:stucco_marineblue>,<cocricotmod:stucco_marineblue>]
+]);
+
+recipes.addShapedMirrored("Marineblue Stucco Arch",<cocricotmod:stucco_marineblue_arch>,[
+    [<cocricotmod:stucco_marineblue>,<cocricotmod:stucco_marineblue_slab>,null],
+    [<cocricotmod:stucco_marineblue_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Marineblue Stucco Arch Single",<cocricotmod:stucco_marineblue_arch_single>,[
+    [<cocricotmod:stucco_marineblue_arch>,<cocricotmod:stucco_marineblue_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Marineblue Stucco Arch Rod",<cocricotmod:stucco_marineblue_rod> * 8,[
+    [<cocricotmod:stucco_marineblue>,null,null],
+    [<cocricotmod:stucco_marineblue>,null,null],
+    [<cocricotmod:stucco_marineblue>,null,null]
+]);
+
+recipes.addShapedMirrored("Marineblue Stucco Arch Stick",<cocricotmod:stucco_marineblue_stick> * 8,[
+    [<cocricotmod:stucco_marineblue_rod>,null,null],
+    [<cocricotmod:stucco_marineblue_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("Marineblue White Stucco Stairs",<cocricotmod:stucco_marineblue_white_stairs> * 2,[
+    [null,null,null],
+    [<cocricotmod:stucco_marineblue_stairs>,<cocricotmod:stucco_white_stairs>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Colored Stone with White Frame",<cocricotmod:stone_color_white_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,quartz_block,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Light Purple Colored Stone with White Frame",<cocricotmod:stone_color_lightpurple_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,white_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Pink Colored Stone with White Frame",<cocricotmod:stone_color_pink_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,pink_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Red Colored Stone with White Frame",<cocricotmod:stone_color_red_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,red_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Orange Colored Stone with White Frame",<cocricotmod:stone_color_orange_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,orange_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Dark Brown Colored Stone with White Frame",<cocricotmod:stone_color_darkbrown_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,brown_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Yellow Colored Stone with White Frame",<cocricotmod:stone_color_yellow_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,yellow_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Light Green Colored Stone with White Frame",<cocricotmod:stone_color_lightgreen_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,lime_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Green Colored Stone with White Frame",<cocricotmod:stone_color_green_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,green_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Light Gray Colored Stone with White Frame",<cocricotmod:stone_color_lightgray_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,silver_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Light Blue Colored Stone with White Frame",<cocricotmod:stone_color_lightblue_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,light_blue_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Blue Colored Stone with White Frame",<cocricotmod:stone_color_blue_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,blue_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Gray Colored Stone with White Frame",<cocricotmod:stone_color_gray_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,gray_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("Black Colored Stone with White Frame",<cocricotmod:stone_color_black_whiteframe>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,black_stained_hardened_clay,<cocricotmod:stone_color_white>],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("White Colored Stone Vertical Slab",<cocricotmod:stone_color_white_vslab> * 2,[
+    [<cocricotmod:stone_color_white>,null,null],
+    [<cocricotmod:stone_color_white>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Colored Stone Slab",<cocricotmod:stone_color_white_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Colored Stone Plate",<cocricotmod:stone_color_white_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_white_slab>,<cocricotmod:stone_color_white_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Colored Stone Stairs",<cocricotmod:stone_color_white_stairs> * 4,[
+    [<cocricotmod:stone_color_white>,null,null],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,null],
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white>]
+]);
+
+recipes.addShapedMirrored("White Colored Stone Arch",<cocricotmod:stone_color_white_arch>,[
+    [<cocricotmod:stone_color_white>,<cocricotmod:stone_color_white_slab>,null],
+    [<cocricotmod:stone_color_white_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Colored Stone Arch Single",<cocricotmod:stone_color_white_arch_single>,[
+    [<cocricotmod:stone_color_white_arch>,<cocricotmod:stone_color_white_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("White Colored Stone Rod",<cocricotmod:stone_color_white_rod> * 8,[
+    [<cocricotmod:stone_color_white>,null,null],
+    [<cocricotmod:stone_color_white>,null,null],
+    [<cocricotmod:stone_color_white>,null,null]
+]);
+
+recipes.addShapedMirrored("White Colored Stone Stick",<cocricotmod:stone_color_white_stick> * 8,[
+    [<cocricotmod:stone_color_white_rod>,null,null],
+    [<cocricotmod:stone_color_white_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightpurple Colored Stone Vertical Slab",<cocricotmod:stone_color_lightpurple_vslab> * 2,[
+    [<cocricotmod:stone_color_lightpurple>,null,null],
+    [<cocricotmod:stone_color_lightpurple>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightpurple Colored Stone Slab",<cocricotmod:stone_color_lightpurple_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_lightpurple>,<cocricotmod:stone_color_lightpurple>,<cocricotmod:stone_color_lightpurple>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightpurple Colored Stone Plate",<cocricotmod:stone_color_lightpurple_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_lightpurple_slab>,<cocricotmod:stone_color_lightpurple_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightpurple Colored Stone Stairs",<cocricotmod:stone_color_lightpurple_stairs> * 4,[
+    [<cocricotmod:stone_color_lightpurple>,null,null],
+    [<cocricotmod:stone_color_lightpurple>,<cocricotmod:stone_color_lightpurple>,null],
+    [<cocricotmod:stone_color_lightpurple>,<cocricotmod:stone_color_lightpurple>,<cocricotmod:stone_color_lightpurple>]
+]);
+
+recipes.addShapedMirrored("lightpurple Colored Stone Arch",<cocricotmod:stone_color_lightpurple_arch>,[
+    [<cocricotmod:stone_color_lightpurple>,<cocricotmod:stone_color_lightpurple_slab>,null],
+    [<cocricotmod:stone_color_lightpurple_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightpurple Colored Stone Arch Single",<cocricotmod:stone_color_lightpurple_arch_single>,[
+    [<cocricotmod:stone_color_lightpurple_arch>,<cocricotmod:stone_color_lightpurple_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightpurple Colored Stone Rod",<cocricotmod:stone_color_lightpurple_rod> * 8,[
+    [<cocricotmod:stone_color_lightpurple>,null,null],
+    [<cocricotmod:stone_color_lightpurple>,null,null],
+    [<cocricotmod:stone_color_lightpurple>,null,null]
+]);
+
+recipes.addShapedMirrored("lightpurple Colored Stone Stick",<cocricotmod:stone_color_lightpurple_stick> * 8,[
+    [<cocricotmod:stone_color_lightpurple_rod>,null,null],
+    [<cocricotmod:stone_color_lightpurple_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("pink Colored Stone Vertical Slab",<cocricotmod:stone_color_pink_vslab> * 2,[
+    [<cocricotmod:stone_color_pink>,null,null],
+    [<cocricotmod:stone_color_pink>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("pink Colored Stone Slab",<cocricotmod:stone_color_pink_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_pink>,<cocricotmod:stone_color_pink>,<cocricotmod:stone_color_pink>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("pink Colored Stone Plate",<cocricotmod:stone_color_pink_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_pink_slab>,<cocricotmod:stone_color_pink_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("pink Colored Stone Stairs",<cocricotmod:stone_color_pink_stairs> * 4,[
+    [<cocricotmod:stone_color_pink>,null,null],
+    [<cocricotmod:stone_color_pink>,<cocricotmod:stone_color_pink>,null],
+    [<cocricotmod:stone_color_pink>,<cocricotmod:stone_color_pink>,<cocricotmod:stone_color_pink>]
+]);
+
+recipes.addShapedMirrored("pink Colored Stone Arch",<cocricotmod:stone_color_pink_arch>,[
+    [<cocricotmod:stone_color_pink>,<cocricotmod:stone_color_pink_slab>,null],
+    [<cocricotmod:stone_color_pink_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("pink Colored Stone Arch Single",<cocricotmod:stone_color_pink_arch_single>,[
+    [<cocricotmod:stone_color_pink_arch>,<cocricotmod:stone_color_pink_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("pink Colored Stone Rod",<cocricotmod:stone_color_pink_rod> * 8,[
+    [<cocricotmod:stone_color_pink>,null,null],
+    [<cocricotmod:stone_color_pink>,null,null],
+    [<cocricotmod:stone_color_pink>,null,null]
+]);
+
+recipes.addShapedMirrored("pink Colored Stone Stick",<cocricotmod:stone_color_pink_stick> * 8,[
+    [<cocricotmod:stone_color_pink_rod>,null,null],
+    [<cocricotmod:stone_color_pink_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("red Colored Stone Vertical Slab",<cocricotmod:stone_color_red_vslab> * 2,[
+    [<cocricotmod:stone_color_red>,null,null],
+    [<cocricotmod:stone_color_red>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("red Colored Stone Slab",<cocricotmod:stone_color_red_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_red>,<cocricotmod:stone_color_red>,<cocricotmod:stone_color_red>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("red Colored Stone Plate",<cocricotmod:stone_color_red_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_red_slab>,<cocricotmod:stone_color_red_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("red Colored Stone Stairs",<cocricotmod:stone_color_red_stairs> * 4,[
+    [<cocricotmod:stone_color_red>,null,null],
+    [<cocricotmod:stone_color_red>,<cocricotmod:stone_color_red>,null],
+    [<cocricotmod:stone_color_red>,<cocricotmod:stone_color_red>,<cocricotmod:stone_color_red>]
+]);
+
+recipes.addShapedMirrored("red Colored Stone Arch",<cocricotmod:stone_color_red_arch>,[
+    [<cocricotmod:stone_color_red>,<cocricotmod:stone_color_red_slab>,null],
+    [<cocricotmod:stone_color_red_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("red Colored Stone Arch Single",<cocricotmod:stone_color_red_arch_single>,[
+    [<cocricotmod:stone_color_red_arch>,<cocricotmod:stone_color_red_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("red Colored Stone Rod",<cocricotmod:stone_color_red_rod> * 8,[
+    [<cocricotmod:stone_color_red>,null,null],
+    [<cocricotmod:stone_color_red>,null,null],
+    [<cocricotmod:stone_color_red>,null,null]
+]);
+
+recipes.addShapedMirrored("red Colored Stone Stick",<cocricotmod:stone_color_red_stick> * 8,[
+    [<cocricotmod:stone_color_red_rod>,null,null],
+    [<cocricotmod:stone_color_red_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("orange Colored Stone Vertical Slab",<cocricotmod:stone_color_orange_vslab> * 2,[
+    [<cocricotmod:stone_color_orange>,null,null],
+    [<cocricotmod:stone_color_orange>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("orange Colored Stone Slab",<cocricotmod:stone_color_orange_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_orange>,<cocricotmod:stone_color_orange>,<cocricotmod:stone_color_orange>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("orange Colored Stone Plate",<cocricotmod:stone_color_orange_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_orange_slab>,<cocricotmod:stone_color_orange_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("orange Colored Stone Stairs",<cocricotmod:stone_color_orange_stairs> * 4,[
+    [<cocricotmod:stone_color_orange>,null,null],
+    [<cocricotmod:stone_color_orange>,<cocricotmod:stone_color_orange>,null],
+    [<cocricotmod:stone_color_orange>,<cocricotmod:stone_color_orange>,<cocricotmod:stone_color_orange>]
+]);
+
+recipes.addShapedMirrored("orange Colored Stone Arch",<cocricotmod:stone_color_orange_arch>,[
+    [<cocricotmod:stone_color_orange>,<cocricotmod:stone_color_orange_slab>,null],
+    [<cocricotmod:stone_color_orange_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("orange Colored Stone Arch Single",<cocricotmod:stone_color_orange_arch_single>,[
+    [<cocricotmod:stone_color_orange_arch>,<cocricotmod:stone_color_orange_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("orange Colored Stone Rod",<cocricotmod:stone_color_orange_rod> * 8,[
+    [<cocricotmod:stone_color_orange>,null,null],
+    [<cocricotmod:stone_color_orange>,null,null],
+    [<cocricotmod:stone_color_orange>,null,null]
+]);
+
+recipes.addShapedMirrored("orange Colored Stone Stick",<cocricotmod:stone_color_orange_stick> * 8,[
+    [<cocricotmod:stone_color_orange_rod>,null,null],
+    [<cocricotmod:stone_color_orange_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("darkbrown Colored Stone Vertical Slab",<cocricotmod:stone_color_darkbrown_vslab> * 2,[
+    [<cocricotmod:stone_color_darkbrown>,null,null],
+    [<cocricotmod:stone_color_darkbrown>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("darkbrown Colored Stone Slab",<cocricotmod:stone_color_darkbrown_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_darkbrown>,<cocricotmod:stone_color_darkbrown>,<cocricotmod:stone_color_darkbrown>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("darkbrown Colored Stone Plate",<cocricotmod:stone_color_darkbrown_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_darkbrown_slab>,<cocricotmod:stone_color_darkbrown_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("darkbrown Colored Stone Stairs",<cocricotmod:stone_color_darkbrown_stairs> * 4,[
+    [<cocricotmod:stone_color_darkbrown>,null,null],
+    [<cocricotmod:stone_color_darkbrown>,<cocricotmod:stone_color_darkbrown>,null],
+    [<cocricotmod:stone_color_darkbrown>,<cocricotmod:stone_color_darkbrown>,<cocricotmod:stone_color_darkbrown>]
+]);
+
+recipes.addShapedMirrored("darkbrown Colored Stone Arch",<cocricotmod:stone_color_darkbrown_arch>,[
+    [<cocricotmod:stone_color_darkbrown>,<cocricotmod:stone_color_darkbrown_slab>,null],
+    [<cocricotmod:stone_color_darkbrown_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("darkbrown Colored Stone Arch Single",<cocricotmod:stone_color_darkbrown_arch_single>,[
+    [<cocricotmod:stone_color_darkbrown_arch>,<cocricotmod:stone_color_darkbrown_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("darkbrown Colored Stone Rod",<cocricotmod:stone_color_darkbrown_rod> * 8,[
+    [<cocricotmod:stone_color_darkbrown>,null,null],
+    [<cocricotmod:stone_color_darkbrown>,null,null],
+    [<cocricotmod:stone_color_darkbrown>,null,null]
+]);
+
+recipes.addShapedMirrored("darkbrown Colored Stone Stick",<cocricotmod:stone_color_darkbrown_stick> * 8,[
+    [<cocricotmod:stone_color_darkbrown_rod>,null,null],
+    [<cocricotmod:stone_color_darkbrown_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("yellow Colored Stone Vertical Slab",<cocricotmod:stone_color_yellow_vslab> * 2,[
+    [<cocricotmod:stone_color_yellow>,null,null],
+    [<cocricotmod:stone_color_yellow>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("yellow Colored Stone Slab",<cocricotmod:stone_color_yellow_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_yellow>,<cocricotmod:stone_color_yellow>,<cocricotmod:stone_color_yellow>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("yellow Colored Stone Plate",<cocricotmod:stone_color_yellow_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_yellow_slab>,<cocricotmod:stone_color_yellow_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("yellow Colored Stone Stairs",<cocricotmod:stone_color_yellow_stairs> * 4,[
+    [<cocricotmod:stone_color_yellow>,null,null],
+    [<cocricotmod:stone_color_yellow>,<cocricotmod:stone_color_yellow>,null],
+    [<cocricotmod:stone_color_yellow>,<cocricotmod:stone_color_yellow>,<cocricotmod:stone_color_yellow>]
+]);
+
+recipes.addShapedMirrored("yellow Colored Stone Arch",<cocricotmod:stone_color_yellow_arch>,[
+    [<cocricotmod:stone_color_yellow>,<cocricotmod:stone_color_yellow_slab>,null],
+    [<cocricotmod:stone_color_yellow_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("yellow Colored Stone Arch Single",<cocricotmod:stone_color_yellow_arch_single>,[
+    [<cocricotmod:stone_color_yellow_arch>,<cocricotmod:stone_color_yellow_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("yellow Colored Stone Rod",<cocricotmod:stone_color_yellow_rod> * 8,[
+    [<cocricotmod:stone_color_yellow>,null,null],
+    [<cocricotmod:stone_color_yellow>,null,null],
+    [<cocricotmod:stone_color_yellow>,null,null]
+]);
+
+recipes.addShapedMirrored("yellow Colored Stone Stick",<cocricotmod:stone_color_yellow_stick> * 8,[
+    [<cocricotmod:stone_color_yellow_rod>,null,null],
+    [<cocricotmod:stone_color_yellow_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgreen Colored Stone Vertical Slab",<cocricotmod:stone_color_lightgreen_vslab> * 2,[
+    [<cocricotmod:stone_color_lightgreen>,null,null],
+    [<cocricotmod:stone_color_lightgreen>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgreen Colored Stone Slab",<cocricotmod:stone_color_lightgreen_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_lightgreen>,<cocricotmod:stone_color_lightgreen>,<cocricotmod:stone_color_lightgreen>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgreen Colored Stone Plate",<cocricotmod:stone_color_lightgreen_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_lightgreen_slab>,<cocricotmod:stone_color_lightgreen_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgreen Colored Stone Stairs",<cocricotmod:stone_color_lightgreen_stairs> * 4,[
+    [<cocricotmod:stone_color_lightgreen>,null,null],
+    [<cocricotmod:stone_color_lightgreen>,<cocricotmod:stone_color_lightgreen>,null],
+    [<cocricotmod:stone_color_lightgreen>,<cocricotmod:stone_color_lightgreen>,<cocricotmod:stone_color_lightgreen>]
+]);
+
+recipes.addShapedMirrored("lightgreen Colored Stone Arch",<cocricotmod:stone_color_lightgreen_arch>,[
+    [<cocricotmod:stone_color_lightgreen>,<cocricotmod:stone_color_lightgreen_slab>,null],
+    [<cocricotmod:stone_color_lightgreen_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgreen Colored Stone Arch Single",<cocricotmod:stone_color_lightgreen_arch_single>,[
+    [<cocricotmod:stone_color_lightgreen_arch>,<cocricotmod:stone_color_lightgreen_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgreen Colored Stone Rod",<cocricotmod:stone_color_lightgreen_rod> * 8,[
+    [<cocricotmod:stone_color_lightgreen>,null,null],
+    [<cocricotmod:stone_color_lightgreen>,null,null],
+    [<cocricotmod:stone_color_lightgreen>,null,null]
+]);
+
+recipes.addShapedMirrored("lightgreen Colored Stone Stick",<cocricotmod:stone_color_lightgreen_stick> * 8,[
+    [<cocricotmod:stone_color_lightgreen_rod>,null,null],
+    [<cocricotmod:stone_color_lightgreen_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("green Colored Stone Vertical Slab",<cocricotmod:stone_color_green_vslab> * 2,[
+    [<cocricotmod:stone_color_green>,null,null],
+    [<cocricotmod:stone_color_green>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("green Colored Stone Slab",<cocricotmod:stone_color_green_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_green>,<cocricotmod:stone_color_green>,<cocricotmod:stone_color_green>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("green Colored Stone Plate",<cocricotmod:stone_color_green_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_green_slab>,<cocricotmod:stone_color_green_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("green Colored Stone Stairs",<cocricotmod:stone_color_green_stairs> * 4,[
+    [<cocricotmod:stone_color_green>,null,null],
+    [<cocricotmod:stone_color_green>,<cocricotmod:stone_color_green>,null],
+    [<cocricotmod:stone_color_green>,<cocricotmod:stone_color_green>,<cocricotmod:stone_color_green>]
+]);
+
+recipes.addShapedMirrored("green Colored Stone Arch",<cocricotmod:stone_color_green_arch>,[
+    [<cocricotmod:stone_color_green>,<cocricotmod:stone_color_green_slab>,null],
+    [<cocricotmod:stone_color_green_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("green Colored Stone Arch Single",<cocricotmod:stone_color_green_arch_single>,[
+    [<cocricotmod:stone_color_green_arch>,<cocricotmod:stone_color_green_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("green Colored Stone Rod",<cocricotmod:stone_color_green_rod> * 8,[
+    [<cocricotmod:stone_color_green>,null,null],
+    [<cocricotmod:stone_color_green>,null,null],
+    [<cocricotmod:stone_color_green>,null,null]
+]);
+
+recipes.addShapedMirrored("green Colored Stone Stick",<cocricotmod:stone_color_green_stick> * 8,[
+    [<cocricotmod:stone_color_green_rod>,null,null],
+    [<cocricotmod:stone_color_green_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgray Colored Stone Vertical Slab",<cocricotmod:stone_color_lightgray_vslab> * 2,[
+    [<cocricotmod:stone_color_lightgray>,null,null],
+    [<cocricotmod:stone_color_lightgray>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgray Colored Stone Slab",<cocricotmod:stone_color_lightgray_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_lightgray>,<cocricotmod:stone_color_lightgray>,<cocricotmod:stone_color_lightgray>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgray Colored Stone Plate",<cocricotmod:stone_color_lightgray_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_lightgray_slab>,<cocricotmod:stone_color_lightgray_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgray Colored Stone Stairs",<cocricotmod:stone_color_lightgray_stairs> * 4,[
+    [<cocricotmod:stone_color_lightgray>,null,null],
+    [<cocricotmod:stone_color_lightgray>,<cocricotmod:stone_color_lightgray>,null],
+    [<cocricotmod:stone_color_lightgray>,<cocricotmod:stone_color_lightgray>,<cocricotmod:stone_color_lightgray>]
+]);
+
+recipes.addShapedMirrored("lightgray Colored Stone Arch",<cocricotmod:stone_color_lightgray_arch>,[
+    [<cocricotmod:stone_color_lightgray>,<cocricotmod:stone_color_lightgray_slab>,null],
+    [<cocricotmod:stone_color_lightgray_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgray Colored Stone Arch Single",<cocricotmod:stone_color_lightgray_arch_single>,[
+    [<cocricotmod:stone_color_lightgray_arch>,<cocricotmod:stone_color_lightgray_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightgray Colored Stone Rod",<cocricotmod:stone_color_lightgray_rod> * 8,[
+    [<cocricotmod:stone_color_lightgray>,null,null],
+    [<cocricotmod:stone_color_lightgray>,null,null],
+    [<cocricotmod:stone_color_lightgray>,null,null]
+]);
+
+recipes.addShapedMirrored("lightgray Colored Stone Stick",<cocricotmod:stone_color_lightgray_stick> * 8,[
+    [<cocricotmod:stone_color_lightgray_rod>,null,null],
+    [<cocricotmod:stone_color_lightgray_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightblue Colored Stone Vertical Slab",<cocricotmod:stone_color_lightblue_vslab> * 2,[
+    [<cocricotmod:stone_color_lightblue>,null,null],
+    [<cocricotmod:stone_color_lightblue>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightblue Colored Stone Slab",<cocricotmod:stone_color_lightblue_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_lightblue>,<cocricotmod:stone_color_lightblue>,<cocricotmod:stone_color_lightblue>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightblue Colored Stone Plate",<cocricotmod:stone_color_lightblue_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_lightblue_slab>,<cocricotmod:stone_color_lightblue_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightblue Colored Stone Stairs",<cocricotmod:stone_color_lightblue_stairs> * 4,[
+    [<cocricotmod:stone_color_lightblue>,null,null],
+    [<cocricotmod:stone_color_lightblue>,<cocricotmod:stone_color_lightblue>,null],
+    [<cocricotmod:stone_color_lightblue>,<cocricotmod:stone_color_lightblue>,<cocricotmod:stone_color_lightblue>]
+]);
+
+recipes.addShapedMirrored("lightblue Colored Stone Arch",<cocricotmod:stone_color_lightblue_arch>,[
+    [<cocricotmod:stone_color_lightblue>,<cocricotmod:stone_color_lightblue_slab>,null],
+    [<cocricotmod:stone_color_lightblue_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightblue Colored Stone Arch Single",<cocricotmod:stone_color_lightblue_arch_single>,[
+    [<cocricotmod:stone_color_lightblue_arch>,<cocricotmod:stone_color_lightblue_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("lightblue Colored Stone Rod",<cocricotmod:stone_color_lightblue_rod> * 8,[
+    [<cocricotmod:stone_color_lightblue>,null,null],
+    [<cocricotmod:stone_color_lightblue>,null,null],
+    [<cocricotmod:stone_color_lightblue>,null,null]
+]);
+
+recipes.addShapedMirrored("lightblue Colored Stone Stick",<cocricotmod:stone_color_lightblue_stick> * 8,[
+    [<cocricotmod:stone_color_lightblue_rod>,null,null],
+    [<cocricotmod:stone_color_lightblue_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("blue Colored Stone Vertical Slab",<cocricotmod:stone_color_blue_vslab> * 2,[
+    [<cocricotmod:stone_color_blue>,null,null],
+    [<cocricotmod:stone_color_blue>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("blue Colored Stone Slab",<cocricotmod:stone_color_blue_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_blue>,<cocricotmod:stone_color_blue>,<cocricotmod:stone_color_blue>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("blue Colored Stone Plate",<cocricotmod:stone_color_blue_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_blue_slab>,<cocricotmod:stone_color_blue_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("blue Colored Stone Stairs",<cocricotmod:stone_color_blue_stairs> * 4,[
+    [<cocricotmod:stone_color_blue>,null,null],
+    [<cocricotmod:stone_color_blue>,<cocricotmod:stone_color_blue>,null],
+    [<cocricotmod:stone_color_blue>,<cocricotmod:stone_color_blue>,<cocricotmod:stone_color_blue>]
+]);
+
+recipes.addShapedMirrored("blue Colored Stone Arch",<cocricotmod:stone_color_blue_arch>,[
+    [<cocricotmod:stone_color_blue>,<cocricotmod:stone_color_blue_slab>,null],
+    [<cocricotmod:stone_color_blue_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("blue Colored Stone Arch Single",<cocricotmod:stone_color_blue_arch_single>,[
+    [<cocricotmod:stone_color_blue_arch>,<cocricotmod:stone_color_blue_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("blue Colored Stone Rod",<cocricotmod:stone_color_blue_rod> * 8,[
+    [<cocricotmod:stone_color_blue>,null,null],
+    [<cocricotmod:stone_color_blue>,null,null],
+    [<cocricotmod:stone_color_blue>,null,null]
+]);
+
+recipes.addShapedMirrored("blue Colored Stone Stick",<cocricotmod:stone_color_blue_stick> * 8,[
+    [<cocricotmod:stone_color_blue_rod>,null,null],
+    [<cocricotmod:stone_color_blue_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("gray Colored Stone Vertical Slab",<cocricotmod:stone_color_gray_vslab> * 2,[
+    [<cocricotmod:stone_color_gray>,null,null],
+    [<cocricotmod:stone_color_gray>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("gray Colored Stone Slab",<cocricotmod:stone_color_gray_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_gray>,<cocricotmod:stone_color_gray>,<cocricotmod:stone_color_gray>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("gray Colored Stone Plate",<cocricotmod:stone_color_gray_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_gray_slab>,<cocricotmod:stone_color_gray_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("gray Colored Stone Stairs",<cocricotmod:stone_color_gray_stairs> * 4,[
+    [<cocricotmod:stone_color_gray>,null,null],
+    [<cocricotmod:stone_color_gray>,<cocricotmod:stone_color_gray>,null],
+    [<cocricotmod:stone_color_gray>,<cocricotmod:stone_color_gray>,<cocricotmod:stone_color_gray>]
+]);
+
+recipes.addShapedMirrored("gray Colored Stone Arch",<cocricotmod:stone_color_gray_arch>,[
+    [<cocricotmod:stone_color_gray>,<cocricotmod:stone_color_gray_slab>,null],
+    [<cocricotmod:stone_color_gray_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("gray Colored Stone Arch Single",<cocricotmod:stone_color_gray_arch_single>,[
+    [<cocricotmod:stone_color_gray_arch>,<cocricotmod:stone_color_gray_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("gray Colored Stone Rod",<cocricotmod:stone_color_gray_rod> * 8,[
+    [<cocricotmod:stone_color_gray>,null,null],
+    [<cocricotmod:stone_color_gray>,null,null],
+    [<cocricotmod:stone_color_gray>,null,null]
+]);
+
+recipes.addShapedMirrored("gray Colored Stone Stick",<cocricotmod:stone_color_gray_stick> * 8,[
+    [<cocricotmod:stone_color_gray_rod>,null,null],
+    [<cocricotmod:stone_color_gray_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black Colored Stone Vertical Slab",<cocricotmod:stone_color_black_vslab> * 2,[
+    [<cocricotmod:stone_color_black>,null,null],
+    [<cocricotmod:stone_color_black>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black Colored Stone Slab",<cocricotmod:stone_color_black_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:stone_color_black>,<cocricotmod:stone_color_black>,<cocricotmod:stone_color_black>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black Colored Stone Plate",<cocricotmod:stone_color_black_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:stone_color_black_slab>,<cocricotmod:stone_color_black_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black Colored Stone Stairs",<cocricotmod:stone_color_black_stairs> * 4,[
+    [<cocricotmod:stone_color_black>,null,null],
+    [<cocricotmod:stone_color_black>,<cocricotmod:stone_color_black>,null],
+    [<cocricotmod:stone_color_black>,<cocricotmod:stone_color_black>,<cocricotmod:stone_color_black>]
+]);
+
+recipes.addShapedMirrored("black Colored Stone Arch",<cocricotmod:stone_color_black_arch>,[
+    [<cocricotmod:stone_color_black>,<cocricotmod:stone_color_black_slab>,null],
+    [<cocricotmod:stone_color_black_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black Colored Stone Arch Single",<cocricotmod:stone_color_black_arch_single>,[
+    [<cocricotmod:stone_color_black_arch>,<cocricotmod:stone_color_black_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black Colored Stone Rod",<cocricotmod:stone_color_black_rod> * 8,[
+    [<cocricotmod:stone_color_black>,null,null],
+    [<cocricotmod:stone_color_black>,null,null],
+    [<cocricotmod:stone_color_black>,null,null]
+]);
+
+recipes.addShapedMirrored("black Colored Stone Stick",<cocricotmod:stone_color_black_stick> * 8,[
+    [<cocricotmod:stone_color_black_rod>,null,null],
+    [<cocricotmod:stone_color_black_rod>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("white 3board wood Vertical Slab",<cocricotmod:wood_3board_white_vslab> * 2,[
+    [<cocricotmod:wood_3board_white>,null,null],
+    [<cocricotmod:wood_3board_white>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("white 3board wood Slab",<cocricotmod:wood_3board_white_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_white>,<cocricotmod:wood_3board_white>,<cocricotmod:wood_3board_white>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("white 3board wood Plate",<cocricotmod:wood_3board_white_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_white_slab>,<cocricotmod:wood_3board_white_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("white 3board wood Stairs",<cocricotmod:wood_3board_white_stairs> * 4,[
+    [<cocricotmod:wood_3board_white>,null,null],
+    [<cocricotmod:wood_3board_white>,<cocricotmod:wood_3board_white>,null],
+    [<cocricotmod:wood_3board_white>,<cocricotmod:wood_3board_white>,<cocricotmod:wood_3board_white>]
+]);
+
+recipes.addShapedMirrored("white 3board wood Arch",<cocricotmod:wood_3board_white_arch>,[
+    [<cocricotmod:wood_3board_white>,<cocricotmod:wood_3board_white_slab>,null],
+    [<cocricotmod:wood_3board_white_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("white 3board wood Arch Single",<cocricotmod:wood_3board_white_arch_single>,[
+    [<cocricotmod:wood_3board_white_arch>,<cocricotmod:wood_3board_white_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("seadrift 3board wood Vertical Slab",<cocricotmod:wood_3board_seadrift_vslab> * 2,[
+    [<cocricotmod:wood_3board_seadrift>,null,null],
+    [<cocricotmod:wood_3board_seadrift>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("seadrift 3board wood Slab",<cocricotmod:wood_3board_seadrift_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_seadrift>,<cocricotmod:wood_3board_seadrift>,<cocricotmod:wood_3board_seadrift>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("seadrift 3board wood Plate",<cocricotmod:wood_3board_seadrift_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_seadrift_slab>,<cocricotmod:wood_3board_seadrift_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("seadrift 3board wood Stairs",<cocricotmod:wood_3board_seadrift_stairs> * 4,[
+    [<cocricotmod:wood_3board_seadrift>,null,null],
+    [<cocricotmod:wood_3board_seadrift>,<cocricotmod:wood_3board_seadrift>,null],
+    [<cocricotmod:wood_3board_seadrift>,<cocricotmod:wood_3board_seadrift>,<cocricotmod:wood_3board_seadrift>]
+]);
+
+recipes.addShapedMirrored("seadrift 3board wood Arch",<cocricotmod:wood_3board_seadrift_arch>,[
+    [<cocricotmod:wood_3board_seadrift>,<cocricotmod:wood_3board_seadrift_slab>,null],
+    [<cocricotmod:wood_3board_seadrift_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("seadrift 3board wood Arch Single",<cocricotmod:wood_3board_seadrift_arch_single>,[
+    [<cocricotmod:wood_3board_seadrift_arch>,<cocricotmod:wood_3board_seadrift_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("clear 3board wood Vertical Slab",<cocricotmod:wood_3board_clear_vslab> * 2,[
+    [<cocricotmod:wood_3board_clear>,null,null],
+    [<cocricotmod:wood_3board_clear>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("clear 3board wood Slab",<cocricotmod:wood_3board_clear_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_clear>,<cocricotmod:wood_3board_clear>,<cocricotmod:wood_3board_clear>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("clear 3board wood Plate",<cocricotmod:wood_3board_clear_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_clear_slab>,<cocricotmod:wood_3board_clear_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("clear 3board wood Stairs",<cocricotmod:wood_3board_clear_stairs> * 4,[
+    [<cocricotmod:wood_3board_clear>,null,null],
+    [<cocricotmod:wood_3board_clear>,<cocricotmod:wood_3board_clear>,null],
+    [<cocricotmod:wood_3board_clear>,<cocricotmod:wood_3board_clear>,<cocricotmod:wood_3board_clear>]
+]);
+
+recipes.addShapedMirrored("clear 3board wood Arch",<cocricotmod:wood_3board_clear_arch>,[
+    [<cocricotmod:wood_3board_clear>,<cocricotmod:wood_3board_clear_slab>,null],
+    [<cocricotmod:wood_3board_clear_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("clear 3board wood Arch Single",<cocricotmod:wood_3board_clear_arch_single>,[
+    [<cocricotmod:wood_3board_clear_arch>,<cocricotmod:wood_3board_clear_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("natural 3board wood Vertical Slab",<cocricotmod:wood_3board_natural_vslab> * 2,[
+    [<cocricotmod:wood_3board_natural>,null,null],
+    [<cocricotmod:wood_3board_natural>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("natural 3board wood Slab",<cocricotmod:wood_3board_natural_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_natural>,<cocricotmod:wood_3board_natural>,<cocricotmod:wood_3board_natural>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("natural 3board wood Plate",<cocricotmod:wood_3board_natural_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_natural_slab>,<cocricotmod:wood_3board_natural_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("natural 3board wood Stairs",<cocricotmod:wood_3board_natural_stairs> * 4,[
+    [<cocricotmod:wood_3board_natural>,null,null],
+    [<cocricotmod:wood_3board_natural>,<cocricotmod:wood_3board_natural>,null],
+    [<cocricotmod:wood_3board_natural>,<cocricotmod:wood_3board_natural>,<cocricotmod:wood_3board_natural>]
+]);
+
+recipes.addShapedMirrored("natural 3board wood Arch",<cocricotmod:wood_3board_natural_arch>,[
+    [<cocricotmod:wood_3board_natural>,<cocricotmod:wood_3board_natural_slab>,null],
+    [<cocricotmod:wood_3board_natural_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("natural 3board wood Arch Single",<cocricotmod:wood_3board_natural_arch_single>,[
+    [<cocricotmod:wood_3board_natural_arch>,<cocricotmod:wood_3board_natural_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("brown 3board wood Vertical Slab",<cocricotmod:wood_3board_brown_vslab> * 2,[
+    [<cocricotmod:wood_3board_brown>,null,null],
+    [<cocricotmod:wood_3board_brown>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("brown 3board wood Slab",<cocricotmod:wood_3board_brown_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_brown>,<cocricotmod:wood_3board_brown>,<cocricotmod:wood_3board_brown>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("brown 3board wood Plate",<cocricotmod:wood_3board_brown_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_brown_slab>,<cocricotmod:wood_3board_brown_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("brown 3board wood Stairs",<cocricotmod:wood_3board_brown_stairs> * 4,[
+    [<cocricotmod:wood_3board_brown>,null,null],
+    [<cocricotmod:wood_3board_brown>,<cocricotmod:wood_3board_brown>,null],
+    [<cocricotmod:wood_3board_brown>,<cocricotmod:wood_3board_brown>,<cocricotmod:wood_3board_brown>]
+]);
+
+recipes.addShapedMirrored("brown 3board wood Arch",<cocricotmod:wood_3board_brown_arch>,[
+    [<cocricotmod:wood_3board_brown>,<cocricotmod:wood_3board_brown_slab>,null],
+    [<cocricotmod:wood_3board_brown_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("brown 3board wood Arch Single",<cocricotmod:wood_3board_brown_arch_single>,[
+    [<cocricotmod:wood_3board_brown_arch>,<cocricotmod:wood_3board_brown_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("dark 3board wood Vertical Slab",<cocricotmod:wood_3board_dark_vslab> * 2,[
+    [<cocricotmod:wood_3board_dark>,null,null],
+    [<cocricotmod:wood_3board_dark>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("dark 3board wood Slab",<cocricotmod:wood_3board_dark_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_dark>,<cocricotmod:wood_3board_dark>,<cocricotmod:wood_3board_dark>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("dark 3board wood Plate",<cocricotmod:wood_3board_dark_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_dark_slab>,<cocricotmod:wood_3board_dark_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("dark 3board wood Stairs",<cocricotmod:wood_3board_dark_stairs> * 4,[
+    [<cocricotmod:wood_3board_dark>,null,null],
+    [<cocricotmod:wood_3board_dark>,<cocricotmod:wood_3board_dark>,null],
+    [<cocricotmod:wood_3board_dark>,<cocricotmod:wood_3board_dark>,<cocricotmod:wood_3board_dark>]
+]);
+
+recipes.addShapedMirrored("dark 3board wood Arch",<cocricotmod:wood_3board_dark_arch>,[
+    [<cocricotmod:wood_3board_dark>,<cocricotmod:wood_3board_dark_slab>,null],
+    [<cocricotmod:wood_3board_dark_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("dark 3board wood Arch Single",<cocricotmod:wood_3board_dark_arch_single>,[
+    [<cocricotmod:wood_3board_dark_arch>,<cocricotmod:wood_3board_dark_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black 3board wood Vertical Slab",<cocricotmod:wood_3board_black_vslab> * 2,[
+    [<cocricotmod:wood_3board_black>,null,null],
+    [<cocricotmod:wood_3board_black>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black 3board wood Slab",<cocricotmod:wood_3board_black_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_black>,<cocricotmod:wood_3board_black>,<cocricotmod:wood_3board_black>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black 3board wood Plate",<cocricotmod:wood_3board_black_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_black_slab>,<cocricotmod:wood_3board_black_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black 3board wood Stairs",<cocricotmod:wood_3board_black_stairs> * 4,[
+    [<cocricotmod:wood_3board_black>,null,null],
+    [<cocricotmod:wood_3board_black>,<cocricotmod:wood_3board_black>,null],
+    [<cocricotmod:wood_3board_black>,<cocricotmod:wood_3board_black>,<cocricotmod:wood_3board_black>]
+]);
+
+recipes.addShapedMirrored("black 3board wood Arch",<cocricotmod:wood_3board_black_arch>,[
+    [<cocricotmod:wood_3board_black>,<cocricotmod:wood_3board_black_slab>,null],
+    [<cocricotmod:wood_3board_black_vslab>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("black 3board wood Arch Single",<cocricotmod:wood_3board_black_arch_single>,[
+    [<cocricotmod:wood_3board_black_arch>,<cocricotmod:wood_3board_black_arch>,null],
+    [null,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_white 3board wood Vertical Slab",<cocricotmod:wood_3board_h_white_vslab> * 2,[
+    [<cocricotmod:wood_3board_h_white>,null,null],
+    [<cocricotmod:wood_3board_h_white>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_white 3board wood Slab",<cocricotmod:wood_3board_h_white_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_white>,<cocricotmod:wood_3board_h_white>,<cocricotmod:wood_3board_h_white>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_white 3board wood Plate",<cocricotmod:wood_3board_h_white_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_white_slab>,<cocricotmod:wood_3board_h_white_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_white 3board wood Stairs",<cocricotmod:wood_3board_h_white_stairs> * 4,[
+    [<cocricotmod:wood_3board_h_white>,null,null],
+    [<cocricotmod:wood_3board_h_white>,<cocricotmod:wood_3board_h_white>,null],
+    [<cocricotmod:wood_3board_h_white>,<cocricotmod:wood_3board_h_white>,<cocricotmod:wood_3board_h_white>]
+]);
+
+recipes.addShapedMirrored("h_seadrift 3board wood Vertical Slab",<cocricotmod:wood_3board_h_seadrift_vslab> * 2,[
+    [<cocricotmod:wood_3board_h_seadrift>,null,null],
+    [<cocricotmod:wood_3board_h_seadrift>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_seadrift 3board wood Slab",<cocricotmod:wood_3board_h_seadrift_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_seadrift>,<cocricotmod:wood_3board_h_seadrift>,<cocricotmod:wood_3board_h_seadrift>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_seadrift 3board wood Plate",<cocricotmod:wood_3board_h_seadrift_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_seadrift_slab>,<cocricotmod:wood_3board_h_seadrift_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_seadrift 3board wood Stairs",<cocricotmod:wood_3board_h_seadrift_stairs> * 4,[
+    [<cocricotmod:wood_3board_h_seadrift>,null,null],
+    [<cocricotmod:wood_3board_h_seadrift>,<cocricotmod:wood_3board_h_seadrift>,null],
+    [<cocricotmod:wood_3board_h_seadrift>,<cocricotmod:wood_3board_h_seadrift>,<cocricotmod:wood_3board_h_seadrift>]
+]);
+
+recipes.addShapedMirrored("h_clear 3board wood Vertical Slab",<cocricotmod:wood_3board_h_clear_vslab> * 2,[
+    [<cocricotmod:wood_3board_h_clear>,null,null],
+    [<cocricotmod:wood_3board_h_clear>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_clear 3board wood Slab",<cocricotmod:wood_3board_h_clear_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_clear>,<cocricotmod:wood_3board_h_clear>,<cocricotmod:wood_3board_h_clear>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_clear 3board wood Plate",<cocricotmod:wood_3board_h_clear_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_clear_slab>,<cocricotmod:wood_3board_h_clear_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_clear 3board wood Stairs",<cocricotmod:wood_3board_h_clear_stairs> * 4,[
+    [<cocricotmod:wood_3board_h_clear>,null,null],
+    [<cocricotmod:wood_3board_h_clear>,<cocricotmod:wood_3board_h_clear>,null],
+    [<cocricotmod:wood_3board_h_clear>,<cocricotmod:wood_3board_h_clear>,<cocricotmod:wood_3board_h_clear>]
+]);
+
+recipes.addShapedMirrored("h_natural 3board wood Vertical Slab",<cocricotmod:wood_3board_h_natural_vslab> * 2,[
+    [<cocricotmod:wood_3board_h_natural>,null,null],
+    [<cocricotmod:wood_3board_h_natural>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_natural 3board wood Slab",<cocricotmod:wood_3board_h_natural_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_natural>,<cocricotmod:wood_3board_h_natural>,<cocricotmod:wood_3board_h_natural>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_natural 3board wood Plate",<cocricotmod:wood_3board_h_natural_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_natural_slab>,<cocricotmod:wood_3board_h_natural_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_natural 3board wood Stairs",<cocricotmod:wood_3board_h_natural_stairs> * 4,[
+    [<cocricotmod:wood_3board_h_natural>,null,null],
+    [<cocricotmod:wood_3board_h_natural>,<cocricotmod:wood_3board_h_natural>,null],
+    [<cocricotmod:wood_3board_h_natural>,<cocricotmod:wood_3board_h_natural>,<cocricotmod:wood_3board_h_natural>]
+]);
+
+recipes.addShapedMirrored("wood_3board_h_brown 3board wood Vertical Slab",<cocricotmod:wood_3board_h_brown_vslab> * 2,[
+    [<cocricotmod:wood_3board_h_brown>,null,null],
+    [<cocricotmod:wood_3board_h_brown>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("wood_3board_h_brown 3board wood Slab",<cocricotmod:wood_3board_h_brown_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_brown>,<cocricotmod:wood_3board_h_brown>,<cocricotmod:wood_3board_h_brown>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("wood_3board_h_brown 3board wood Plate",<cocricotmod:wood_3board_h_brown_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_brown_slab>,<cocricotmod:wood_3board_h_brown_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("wood_3board_h_brown 3board wood Stairs",<cocricotmod:wood_3board_h_brown_stairs> * 4,[
+    [<cocricotmod:wood_3board_h_brown>,null,null],
+    [<cocricotmod:wood_3board_h_brown>,<cocricotmod:wood_3board_h_brown>,null],
+    [<cocricotmod:wood_3board_h_brown>,<cocricotmod:wood_3board_h_brown>,<cocricotmod:wood_3board_h_brown>]
+]);
+
+recipes.addShapedMirrored("h_dark 3board wood Vertical Slab",<cocricotmod:wood_3board_h_dark_vslab> * 2,[
+    [<cocricotmod:wood_3board_h_dark>,null,null],
+    [<cocricotmod:wood_3board_h_dark>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_dark 3board wood Slab",<cocricotmod:wood_3board_h_dark_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_dark>,<cocricotmod:wood_3board_h_dark>,<cocricotmod:wood_3board_h_dark>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_dark 3board wood Plate",<cocricotmod:wood_3board_h_dark_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_dark_slab>,<cocricotmod:wood_3board_h_dark_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_dark 3board wood Stairs",<cocricotmod:wood_3board_h_dark_stairs> * 4,[
+    [<cocricotmod:wood_3board_h_dark>,null,null],
+    [<cocricotmod:wood_3board_h_dark>,<cocricotmod:wood_3board_h_dark>,null],
+    [<cocricotmod:wood_3board_h_dark>,<cocricotmod:wood_3board_h_dark>,<cocricotmod:wood_3board_h_dark>]
+]);
+
+recipes.addShapedMirrored("h_black 3board wood Vertical Slab",<cocricotmod:wood_3board_h_black_vslab> * 2,[
+    [<cocricotmod:wood_3board_h_black>,null,null],
+    [<cocricotmod:wood_3board_h_black>,null,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_black 3board wood Slab",<cocricotmod:wood_3board_h_black_slab> * 6,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_black>,<cocricotmod:wood_3board_h_black>,<cocricotmod:wood_3board_h_black>],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_black 3board wood Plate",<cocricotmod:wood_3board_h_black_plate> * 4,[
+    [null,null,null],
+    [<cocricotmod:wood_3board_h_black_slab>,<cocricotmod:wood_3board_h_black_slab>,null],
+    [null,null,null]
+]);
+
+recipes.addShapedMirrored("h_black 3board wood Stairs",<cocricotmod:wood_3board_h_black_stairs> * 4,[
+    [<cocricotmod:wood_3board_h_black>,null,null],
+    [<cocricotmod:wood_3board_h_black>,<cocricotmod:wood_3board_h_black>,null],
+    [<cocricotmod:wood_3board_h_black>,<cocricotmod:wood_3board_h_black>,<cocricotmod:wood_3board_h_black>]
+]);

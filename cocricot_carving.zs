@@ -563,3 +563,303 @@ mods.chisel.Carving.addVariation("cocricotmod_tile_grid_blackwhite_plate", <cocr
 mods.chisel.Carving.addGroup("cocricotmod_tile_grid_blackwhite_stairs");
 mods.chisel.Carving.addVariation("cocricotmod_tile_grid_blackwhite_stairs", <cocricotmod:tile_grid_small_blackwhite_stairs>);
 mods.chisel.Carving.addVariation("cocricotmod_tile_grid_blackwhite_stairs", <cocricotmod:tile_grid_blackwhite_stairs>);
+
+mods.chisel.Carving.addGroup("cocricotmod_mortar");
+mods.chisel.Carving.addVariation("cocricotmod_mortar", <cocricotmod:concrete_exposed>);
+mods.chisel.Carving.addVariation("cocricotmod_mortar", <cocricotmod:mortar>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta", <minecraft:hardened_clay>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta", <cocricotmod:stone_color_white>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_light_purple");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_light_purple", <minecraft:stained_hardened_clay:0>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_light_purple", <cocricotmod:stone_color_lightpurple>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_pink");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_pink", <minecraft:stained_hardened_clay:6>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_pink", <cocricotmod:stone_color_pink>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_red");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_red", <minecraft:stained_hardened_clay:14>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_red", <cocricotmod:stone_color_red>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_orange");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_orange", <minecraft:stained_hardened_clay:1>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_orange", <cocricotmod:stone_color_orange>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_dark_brown");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_dark_brown", <minecraft:stained_hardened_clay:12>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_dark_brown", <cocricotmod:stone_color_darkbrown>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_yellow");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_yellow", <minecraft:stained_hardened_clay:4>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_yellow", <cocricotmod:stone_color_yellow>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_light_green");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_light_green", <minecraft:stained_hardened_clay:5>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_light_green", <cocricotmod:stone_color_lightgreen>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_green");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_green", <minecraft:stained_hardened_clay:13>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_green", <cocricotmod:stone_color_green>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_light_gray");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_light_gray", <minecraft:stained_hardened_clay:8>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_light_gray", <cocricotmod:stone_color_lightgray>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_light_blue");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_light_blue", <minecraft:stained_hardened_clay:3>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_light_blue", <cocricotmod:stone_color_lightblue>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_blue");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_blue", <minecraft:stained_hardened_clay:11>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_blue", <cocricotmod:stone_color_blue>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_gray");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_gray", <minecraft:stained_hardened_clay:7>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_gray", <cocricotmod:stone_color_gray>);
+
+mods.chisel.Carving.addGroup("cocricotmod_terracotta_black");
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_black", <minecraft:stained_hardened_clay:15>);
+mods.chisel.Carving.addVariation("cocricotmod_terracotta_black", <cocricotmod:stone_color_black>);
+
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_flooring_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_3board_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_3board_h_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_2board_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_2board_h_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_6board_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_6board_h_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_wainscot_panels_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_herringbone_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_herringbone_clear>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_white>);
+mods.chisel.Carving.addVariation("planks-birch", <cocricotmod:wood_clear>);
+
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_3board_seadrift>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_3board_h_seadrift>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_3board_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_3board_h_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_6board_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_6board_h_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_6board_seadrift>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_6board_h_seadrift>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_wainscot_panels_lightgreen>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_wainscot_panels_seadrift>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_wainscot_panels_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_herringbone_seadrift>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_seadrift>);
+
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_2board_seadrift>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_2board_h_seadrift>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_2board_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_2board_h_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_6board_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_6board_h_clear>);
+mods.chisel.Carving.addVariation("planks-oak", <cocricotmod:wood_brown>);
+
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_3board_natural>);
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_3board_h_natural>);
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_2board_natural>);
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_2board_h_natural>);
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_6board_natural>);
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_6board_h_natural>);
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_wainscot_panels_natural>);
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_herringbone_natural>);
+mods.chisel.Carving.addVariation("planks-jungle", <cocricotmod:wood_natural>);
+
+mods.chisel.Carving.addVariation("planks-spruce", <cocricotmod:wood_3board_brown>);
+mods.chisel.Carving.addVariation("planks-spruce", <cocricotmod:wood_3board_h_brown>);
+mods.chisel.Carving.addVariation("planks-spruce", <cocricotmod:wood_2board_brown>);
+mods.chisel.Carving.addVariation("planks-spruce", <cocricotmod:wood_2board_h_brown>);
+mods.chisel.Carving.addVariation("planks-spruce", <cocricotmod:wood_6board_brown>);
+mods.chisel.Carving.addVariation("planks-spruce", <cocricotmod:wood_6board_h_brown>);
+mods.chisel.Carving.addVariation("planks-spruce", <cocricotmod:wood_wainscot_panels_brown>);
+mods.chisel.Carving.addVariation("planks-spruce", <cocricotmod:wood_herringbone_brown>);
+
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_3board_dark>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_3board_h_dark>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_3board_black>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_3board_h_black>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_6board_black>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_6board_h_black>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_6board_dark>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_6board_h_dark>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_2board_dark>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_2board_h_dark>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_2board_black>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_2board_h_black>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_wainscot_panels_black>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_herringbone_dark>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_herringbone_black>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_dark>);
+mods.chisel.Carving.addVariation("planks-dark-oak", <cocricotmod:wood_black>);
+
+mods.chisel.Carving.addGroup("cocricotmod_wood_wrapsiding");
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_white>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightpurple>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightpink>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_pink>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_red>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightred>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_yellow>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightyellow>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightlime>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightgreen>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_green>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_blue>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_gray>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_cyan>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightcyan>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightblue>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_lightbrown>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_woodshake_gray>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding", <cocricotmod:wood_wrapsiding_woodshake_black>);
+
+mods.chisel.Carving.addGroup("cocricotmod_wood_wrapsiding_white_frame");
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_white_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightpurple_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightpink_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_pink_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_red_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightred_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_yellow_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightyellow_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightlime_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightgreen_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_green_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_blue_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_gray_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_cyan_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightcyan_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightblue_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_lightbrown_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_woodshake_gray_whiteframe>);
+mods.chisel.Carving.addVariation("cocricotmod_wood_wrapsiding_white_frame", <cocricotmod:wood_wrapsiding_woodshake_black_whiteframe>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers", <cocricotmod:halftimber_whitewhite_arch>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers_redwhite");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_redwhite", <cocricotmod:halftimber_redwhite_arch>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers_darkwhite");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_darkwhite", <cocricotmod:halftimber_darkwhite_arch>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers_brownwhite");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_brownwhite", <cocricotmod:halftimber_brownwhite_arch>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers_yellowwhite");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_yellowwhite", <cocricotmod:halftimber_yellowwhite_arch>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers_limewhite");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_limewhite", <cocricotmod:halftimber_limewhite_arch>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers_greenwhite");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_greenwhite", <cocricotmod:halftimber_greenwhite_arch>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers_bluewhite");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_bluewhite", <cocricotmod:halftimber_bluewhite_arch>);
+
+mods.chisel.Carving.addGroup("cocricotmod_halftimbers_blackblack");
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_allinone>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_frame>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_slant_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_slant_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_cross>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_tudor_right>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_tudor_left>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_tudor>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_mesh>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_pattern1>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_pattern2>);
+mods.chisel.Carving.addVariation("cocricotmod_halftimbers_blackblack", <cocricotmod:halftimber_blackblack_arch>);
